@@ -1,2 +1,2 @@
-# zmaticoo-sdk
+# zmaticoo-sdk-demo
 
